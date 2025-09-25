@@ -5,7 +5,7 @@ An MCP server exposing read-only tools over the Pylot headless content API.
 ## Quick start
 
 ```bash
-git clone [<this repo>](https://github.com/imag-devops/pylot-content-mcp.git)
+git clone https://github.com/imag-devops/pylot-content-mcp.git
 cd pylot-mcp-server
 npm install
 npm run build
