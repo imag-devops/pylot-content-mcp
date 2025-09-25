@@ -58,4 +58,3 @@ This returns a registry of virtual tools (e.g., `pages.list`, `pages.get_by_slug
 ## Notes
 
 - Docker is **not required**; this runs locally via stdio.
-- Sorting by recency is not implemented (can be added later if needed).
